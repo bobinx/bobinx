@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobinx
 - 👀 I’m interested in backend design and development
-- 🌱 Currently learning Vert.x
-- 💞️ Looking to collaborate on any open-source projects preferrably Java or Javascript based
+- 🌱 Currently improving my design skills
+- 💞️ Looking to collaborate on any open-source projects preferrably built on Java
 <!---
 - 📫 How to reach me ...
 --->
